@@ -1,0 +1,331 @@
+<!-- Daniel Cardenas -->
+<!-- Lab1 -->
+<html>
+	<head>
+		<title>Lab1v3</title>
+		<meta charset="utf-8">
+		
+		<!-- CSS -->
+		<style type="text/css">
+		
+			.theDivLook
+			{
+				border-style: solid;
+				border-color: black;
+				border-width: thin;
+				background-color: blue;
+				width: 50%;
+				height: 12%;
+			}
+			.backgroundLook
+			{
+				background-color: green;
+			}
+				
+			#theMessageDiv
+			{
+				height: 30%;
+			}
+			
+			.hidden 	{ display: none}
+			.visable	{ display: block}
+			.backerror	{ background-color: red}
+			
+		</style>
+		
+		<!-- Javascript -->
+		<script type="application/javascript">
+			//var numinput;
+			var numcounter = 0;
+			//var usernameinput;
+			//var passinput;
+			var passNumCounter = 0;
+			var passUpperCounter = 0;
+			var passLowerCounter = 0;
+			var testWordCounter = 0;
+			var firstTime = true;
+			var insideUsername;
+			var response = "";
+			
+			
+			//Student ID checking
+			function handleKey(e)
+			{
+				var keycode = e.keyCode;
+				var keyinput = String.fromCharCode(keycode);
+				//limits input to a length of 9 numbers
+				if (keyinput < '0' || keyinput > '9' || numcounter > 8)
+				{
+					e.preventDefault();
+				}
+				else
+				{
+					++numcounter;
+				}
+			}
+			//Student ID backspace checking
+			function backspaceFound(e)
+			{
+				var key = e.keyCode || e.charCode;
+				if( key == 8 || key == 46 ) 
+					{
+						if (numcounter > 0)
+							--numcounter;
+					}
+			}
+			
+			//Username checking
+			function checkUsername(e)
+			{
+				var keycode = e.keyCode;
+				var keyinput = String.fromCharCode(keycode);
+				//limits input to alphabet characters
+				if (keyinput < 'A' || (keyinput > 'Z' && keyinput < 'a') || keyinput > 'z')
+				{
+					e.preventDefault();
+				}
+			}
+			
+			//Message checking
+			function messageCheck(e)
+			{
+				var wordcountDiv = document.getElementById("wordcount");
+				var inputString = document.getElementById("messageonly").value;
+				var priorKey;
+				var priorpriorKey;
+				var counter = 0;
+				var first = true;
+				var i;
+				for (i = 0; i < inputString.length; i++)
+				{
+					if (inputString.charCodeAt(i) === 32 || inputString.charCodeAt(i) === 10)
+					{
+						//a space or return
+						//check if over 25 words, and if so stop
+						if (counter > 24)
+						{
+							e.preventDefault();
+						} 
+					}
+					else
+					{
+						//a letter
+						if (first)
+						{
+							counter++;
+							first = false;
+						} 
+						else if (priorKey === 10 || priorKey === 32)
+						{
+							counter++;
+						} 
+					}
+					priorKey = inputString.charCodeAt(i);
+					priorpriorKey = inputString.charCodeAt(i-1);
+					
+				} //end for loop
+				//inputString finished, move to key e
+				var keycode = e.keyCode;
+				var keyinput = String.fromCharCode(keycode);
+				if (keycode === 32 || keycode === 13)
+				{
+					//a space or return
+					//check if over 25 words, and if so stop
+					if (counter > 24)
+					{
+						e.preventDefault();
+					} 
+				}
+				else if (keycode === 8)
+				{
+					//if is a backspace, do nothing
+					if (priorpriorKey === 32 || priorpriorKey === 10 || priorpriorKey === null)
+					{
+						if (priorKey !== 32 && priorKey !== 10)
+						{
+							counter--;
+						}
+					}
+				}
+				else
+				{
+					//a letter
+					if (first)
+					{
+						counter++;
+						first = false;
+					} 
+					else if (priorKey === 10 || priorKey === 32)
+					{
+						counter++;
+					} 
+				} //end if/elseif/else
+					
+				testWordCounter = counter;
+				var wordsLeft = 25 - counter;
+				wordcountDiv.innerHTML = " " + wordsLeft + " / 25 words remaining";
+			}
+			//Message backspace checking
+			function messageBackspace(e)
+			{
+				var key = e.keyCode || e.charCode;
+				if( key == 8 ) //|| key == 46 )
+					if (testWordCounter < 26)
+					{
+						//backspace found
+						//prior to word max
+						messageCheck(e);
+					}
+			}
+			
+			//Password check
+			function testPasswordCheck()
+			{
+				var passwordString = document.getElementById("passwordonly").value;
+				var passwordArray = passwordString.split("")
+				passNumCounter = 0;
+				passLowerCounter = 0;
+				passUpperCounter = 0;
+				//keep counter for number of digits, lowercase, and uppercase
+				var i;
+				for (i = 0; i < passwordArray.length; i++)
+				{
+					if (passwordArray[i] >= 'A' && passwordArray[i] <= 'Z')
+					{
+						++passUpperCounter;
+					}
+					else if (passwordArray[i] >= 'a' && passwordArray[i] <= 'z')
+					{
+						++passLowerCounter;
+					}
+					else if (passwordArray[i] >= '0' && passwordArray[i] <= '9')
+					{
+						++passNumCounter;
+					}
+				}
+				
+				if ((passUpperCounter > 0) && (passLowerCounter > 0) && (passNumCounter > 0))
+				{
+					//success
+					return true;
+				}
+				else
+				{
+					//unsuccessful
+					if (passNumCounter === 0)
+					{
+						response += "Password needs one or more Numbers.  <br>\n";
+					}
+					if (passLowerCounter === 0)
+					{
+						response += "Password needs one or more Lower Case.  <br>\n";
+					}
+					if (passUpperCounter === 0)
+					{
+						response += "Password needs one or more Upper Case.  <br>\n";
+					}
+				}
+			}
+			
+			//Submit checking
+			function checkSubmit()
+			{
+				response = "";
+				insideUsername = document.getElementById("usernameonly").value;
+				var tokens = insideUsername.split("");
+				var numTokens = tokens.length;
+				var isGoodPassword = testPasswordCheck();
+				
+				//checks password, student ID, and username
+				if (isGoodPassword && (numcounter === 9) && (numTokens > 0))
+				{
+					//success
+					resultDiv.innerHTML = "SUCCESS!";
+					resultDiv.setAttribute("class", "visable");
+					theBackgroundDiv.style.backgroundColor = "green";
+				}
+				else
+				{
+					//unsuccessful
+					var numLeft = 9 - numcounter;
+					if (numLeft !== 0)
+					{
+						response += "Need " + numLeft + " more Student ID numbers.  <br>\n";
+					}
+					if (numTokens === 0)
+					{
+						response += "Username Needs at least one character.  <br>\n"
+					}
+					resultDiv.innerHTML = response;
+					resultDiv.setAttribute("class", "visable");
+					theBackgroundDiv.style.backgroundColor = "red";
+				}
+			}
+			
+			function initHandler() 
+			{
+				var theBackgroundDiv = document.getElementById("theBackgroundDiv");
+				var resultDiv = document.getElementById("resultDiv");
+				
+				var numinput = document.getElementById("numsonly");
+				numinput.addEventListener("keypress", handleKey);
+				numinput.addEventListener("keydown", backspaceFound);
+				
+				var usernameinput = document.getElementById("usernameonly");
+				usernameinput.addEventListener("keypress", checkUsername);
+				
+				var buttoninput = document.getElementById("theButton");
+				buttoninput.addEventListener("click", checkSubmit);
+				
+				var messageinput = document.getElementById("messageonly");
+				messageinput.addEventListener("keypress", messageCheck);
+				messageinput.addEventListener("keydown", messageBackspace);
+				
+			}
+			
+			window.addEventListener("load", initHandler);
+		</script>
+	</head>
+
+	<body>
+		<div id="theBackgroundDiv" class="backgroundLook">
+			<h1>Here is the Form</h1>
+			
+			<div id="theUsernameDiv" class="theDivLook">
+				<p>Enter Username</p>
+				<form>
+					Username: <input id="usernameonly" type="text" name="theUsername">
+				</form>
+			</div>
+			
+			<div id="thePasswordDiv" class="theDivLook">
+				<p>Enter Password</p>
+				<form>
+					Password: <input id="passwordonly" type="password" name="thePassword">
+				</form>
+			</div>
+			
+			<div id="theStudenIDDiv" class="theDivLook">
+				<p>Enter Student ID Number</p>
+				<form>
+					Student ID: <input id="numsonly" type="text" name="theStudentID">
+				</form>
+			</div>
+			
+			<div id="theMessageDiv" class="theDivLook">
+				<p>Enter Message</p>
+				<div id="wordcount" background-color="white"> 25 / 25 words remaining</div>
+				<form>
+					<textarea id="messageonly" name="message" rows="5" cols="20"></textarea>
+				</form>
+			</div>
+			
+			<div class="theDivLook">Last One
+				<button id="theButton">Submit</button>
+			</div>
+			<div id="resultDiv" class="theDivLook hidden">Result Here</div>
+		</div>
+
+	</body>
+
+</html>

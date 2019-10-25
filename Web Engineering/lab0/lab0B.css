@@ -1,0 +1,70 @@
+/* Daniel Cardenas */
+/* Lab0B external style sheet */
+
+body {
+	background-color: blue;
+	}
+	
+header {
+	background-color: lightgreen;
+	text-align: right;
+	font-family: serif;
+	
+}
+
+div { 
+	background-color: lightgreen;
+	padding: 20px;
+	border: 5px solid black;
+	margin: 20px;
+	}
+	
+.whitebox {
+	background-color: white;
+	height: 1000px;
+	}
+	
+.friendsbox {
+	display: inline-block;
+	background-color: red;
+	color: white;
+	text-align: left;
+	width: 150px;
+	margin: 20px;
+	padding: 5px;
+	font-family: Arial, sans-serif;
+	}
+	
+.blog1 {
+	display: inline-block;
+	background-color: thistle;
+	width: 800px;
+	padding: 10px;
+	margin: 20px;
+	position: absolute;
+	right: 55px;
+	}
+   
+.blog2 {
+	display: block;
+	background-color: thistle;
+	width: 800px;
+	padding: 10px;
+	margin: 60px;
+	
+	position: absolute;
+	right: 15px;
+	}   
+   
+.floated {
+	float: right;
+	}
+
+nav ul li:hover {
+	color: red;
+	text-decoration: underline;
+	}
+a:link {
+	text-decoration: none;
+	color: white;
+	}
