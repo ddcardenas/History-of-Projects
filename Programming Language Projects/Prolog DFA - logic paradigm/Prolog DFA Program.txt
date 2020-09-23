@@ -1,0 +1,30 @@
+% Daniel Cardenas
+% Comp333 DFA assignment
+
+parse(L) :- start(S), 
+            trans(S,L).
+
+trans(X,[A|B]) :- 
+      delta(X,A,Y),   /*  X ---A---> Y */
+      write(X),
+      write('  '),
+      write([A|B]),
+      nl,
+      trans(Y,B).  
+trans(X,[]) :- 
+      final(X),
+      write(X),
+      write('  '),
+      write([]), nl.
+
+delta(x,a,x).   
+delta(x,b,y).
+delta(y,a,x).
+delta(y,b,z).
+delta(z,a,z).
+delta(z,b,z).
+ 
+start(x).
+
+final(x).
+final(y).
