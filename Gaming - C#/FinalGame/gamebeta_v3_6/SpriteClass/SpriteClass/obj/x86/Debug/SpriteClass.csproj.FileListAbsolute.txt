@@ -1,0 +1,1212 @@
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+c:\users\migtown\documents\visual studio 2010\Projects\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\Zombies.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver3.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\zombieedited.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Europe - The Final Countdown 8-bit.wma
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\lostbg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\stamina_bar_sheet.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\stamina_bar_sheet.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\stamina_bar_sheet.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\stamina_bar_sheet.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\stamina_bar_sheet.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\skullball.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\threerings.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\projectile.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\classRoomBackground.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\chrono_walkingsheet_ver4.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\fireball_0.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knife_sheet_ver4.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_screen.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\icon_press_enter.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\hamburger sprite.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\healthbar.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\ammo_ball.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\sword.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\knifeitem.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\coffee.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\crest.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\enter.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howto.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\howtoplay.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\out.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\bahamut.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\greenslime.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\newzombie.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\BossBar3.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\gameover_bg.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\winscreen.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\stamina_bar_sheet.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\projectile.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\start_sound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemFireballSound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemHealthSound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\ItemKnifeSound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\knifeThrowSound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Slime_sound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Window_Crashing.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\Zombie_Hit_Sound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\zombie_spawn_sound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\boss_spawn_sound.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\chronoHitSound2.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\win_soundfx.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\lose_soundfx.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\SpriteFont1.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\intro_title.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\sprites\StatFont.xnb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\8 Bit Eye of the Tiger - Survivor.wma
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\finalcut.wma
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\bossmusic.wma
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\winmusic.wma
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\Content\audio\theend.wma
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.exe
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\bin\x86\Debug\SpriteClass.pdb
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.csprojResolveAssemblyReference.cache
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.exe
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClass\obj\x86\Debug\SpriteClass.pdb
