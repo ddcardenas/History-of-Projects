@@ -1,5 +1,5 @@
 # History-of-Projects
-Welcome!  My name is Daniel Cardenas.  I graduated from California State University of Northridge (Class of 2020) with a Bachelors degree in Computer Science with a minor in Mathematics.
+Welcome!  My name is Daniel Cardenas.  I graduated from California State University of Northridge (Class of 2020) with a Bachelors degree in Computer Science and a minor in Mathematics.
 
 This repository holds some of my completed projects.
 
