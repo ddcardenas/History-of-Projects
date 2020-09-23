@@ -1,4 +1,6 @@
-1) Member’s contributions:
+Description: A simple chat application for message exchange among remote peers.
+
+1) Memberâ€™s contributions:
 
 Member: Daniel Cardenas
 Worked on connect function, send function, server initalization and use.  
