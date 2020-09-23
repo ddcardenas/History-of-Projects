@@ -1,0 +1,30 @@
+C:\Users\Migtown\Desktop\Delete\SpriteClass\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Examples\Example15_projectiles\SpriteClass\SpriteClass\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v1\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_3\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lab-User\Desktop\gamebeta_v2_4\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v2_5\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v3_1\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Desktop\gamebeta_v3_1 - Updating\gamebeta_v2\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_1 - Updating\gamebeta_v3_1\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_2 - Updating\gamebeta_v3_1\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+H:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_3 - Updating\gamebeta_v3_3\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_4 - Updating\gamebeta_v3_4\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\game version 3\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_5 - Updating\gamebeta_v3_5\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_5\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\CSUSER\Documents\College\CS 181 Gaming\Group Project\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hi\Desktop\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\drea\gameupdate\turnin\gamebeta_v3_6 - Updating\gamebeta_v3_6\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lab-User\Desktop\GAME\gamebeta_v3_6\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+E:\CS181\CS181 - Group Project\GAME\gamebeta_v3_6\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
+C:\Users\BurtonFam\Desktop\FinalGame\GAME\gamebeta_v3_6\SpriteClass\SpriteClassContent\obj\x86\Debug\SpriteClassContent.contentprojResolveAssemblyReference.cache
