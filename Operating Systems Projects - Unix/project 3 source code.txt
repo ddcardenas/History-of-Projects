@@ -1,0 +1,122 @@
+//hello world
+//i
+//think
+//you are great
+
+42 bytes
+7 words
+4 lines
+
+====================================================
+
+#include <stdio.h>
+
+main()
+{
+	int word_count = 0, byte_count = 0, line_count = 1, c; //line_count might be 1
+	int wchar_position = -1; //word character position
+	while ((c = getchar()) != EOF)
+	{
+		++byte_count;
+		if (c == '\n')
+			++line_count;
+		if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9'))
+		{
+			if (wchar_position != byte_count-1)
+				++word_count;
+			wchar_position = byte_count;
+		}
+	}  //end while loop
+	if (byte_count == 0)
+		line_count = 0;
+	printf("\n\n byte count: %d \n word count: %d \n line count: %d \n", byte_count, word_count, line_count);
+}
+
+
+
+// IF cflag, lflag, and wflag all equal 0, THEN find all values for each file: lines words bytes 'ProgramName'
+// OTHERWISE, show info for those not equal to 0
+
+// AFTER getting a file >> perform above method which saves to variables (line_count, word_count, byte_count)
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+char *pgmname;
+short cflag = 0;
+short lflag = 0;
+short wflag = 0;
+FILE *fp, *fopen();
+
+void main (argc, argv)
+int argc, char *argv[];
+{
+	int i; char *cp;
+	int word_total = 0;
+	line_total = 0;
+	byte_total = 0;
+
+	pgmname = argv[0];
+	fp = stdin;
+	for (i = 1; i < argc ; i++)  //cycling through each word entered in command prompt
+	{
+		cp = argv[i];
+		if ( *cp == '-')
+		{
+			if (*++cp == 'c' || *cp == 'm')  //byte count
+				cflag++;
+			else if (*cp == 'l')  //line count
+				lflag++;
+			else if (*cp == 'w')  //word count
+				wflag++;
+		}
+		else
+		{
+			if (fp != stdin)
+			{
+				//fprint(stderr, "%s: too many arguments \n", pgmname);
+				exit (1);
+			}
+			fp = fopen(cp, "r");
+			if (fp == NULL)
+			{
+				//fprint(stderr, "%s: unable to read %s\n", pgmname, cp);
+				exit (1);
+			}
+			//go through file character by character
+			int word_count = 0, byte_count = 0, line_count = 1, c; //line_count might be 1
+			int wchar_position = -1; //word character position
+			while ((c = getc(fp)) != EOF)
+			{
+				++byte_count;
+				if (c == '\n')
+					++line_count;
+				if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9'))
+				{
+					if (wchar_position != byte_count-1)
+						++word_count;
+					wchar_position = byte_count;
+				}
+			}  //end while loop
+			if (byte_count == 0)
+				line_count = 0;
+			byte_total += byte_count;
+			line_total += line_count;
+			word_total += word_count;
+			printf("\n\n byte count: %d word count: %d line count: %d  %s \n", byte_count, word_count, line_count, cp);
+		} //end if/else
+	} //end for loop that which cycles words entered in command prompt
+	printf("\n\n byte count: %d word count: %d line count: %d  total \n", byte_total, word_total, line_total);
+
+}  //end main
+
+
+
+
+
+
+google about struct and the functions and such
+can go to password structure
+
+instructions how to add directory to path

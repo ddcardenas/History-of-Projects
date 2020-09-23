@@ -1,0 +1,162 @@
+Script started on Wed 01 May 2019 02:44:12 AM PDT
+$ cat myforkingwc.c
+//written by Daniel Cardenas
+//for Comp322 project 6
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/wait.h>
+#include <unistd.h>
+#include <ctype.h>
+
+int lines_flag = 0;
+int words_flag = 0;
+int bytes_flag = 0;
+
+struct count {
+  int lines;
+  int words;
+  int bytes;
+};
+
+
+struct count work_on_file(FILE *fp) {
+  int c, previous_char;
+  previous_char = -1;
+  struct count filecount = {.lines = 0, .words = 0, .bytes = 0};
+  while((c = fgetc(fp)) != EOF) {
+    if(isspace(c) && previous_char > 0 && !isspace(previous_char)) {
+      ++filecount.words;
+    }
+    if(c == '\n') {
+      ++filecount.lines;
+    }
+    previous_char = c;
+    ++filecount.bytes;
+  }
+  if(filecount.bytes > 0) {
+    if(!isspace(previous_char)) {
+      ++filecount.words;
+    }
+  }
+
+  if(lines_flag == 0 && words_flag == 0 && bytes_flag ==0) {
+    printf("%5d %5d %5d ", filecount.lines, filecount.words, filecount.bytes);
+  }
+  else {
+    if(lines_flag != 0) {
+      printf("%5d ", filecount.lines);
+    }
+    if(words_flag != 0) {
+      printf("%5d ", filecount.words);
+    }
+    if(bytes_flag != 0) {
+      printf("%5d ", filecount.bytes);
+    }
+  }
+  return filecount;
+} // END OF WORK ON FILE METHOD
+
+
+int main(int argc, char *argv[])
+{
+  int i, j, k, c, filecount;
+  pid_t pid;
+  int pipefd[2];
+  struct count local_count = {.lines = 0, .words = 0, .bytes = 0};
+  struct count total_count = {.lines = 0, .words = 0, .bytes = 0};
+  filecount = 0;
+  char *filenames[argc];
+
+  if(pipe(pipefd)) {
+    printf("Pipe failed.\n");
+  }
+
+  for(i = 1; i < argc; i++) {
+    if(*argv[i] == '-') {
+      while((c = *(++argv[i]))) {
+        if(c == 'c')
+          bytes_flag = 1;
+        else if (c == 'w')
+          words_flag = 1;
+        else if (c == 'l')
+          lines_flag = 1;
+        else {
+          printf("Please use a valid option");
+          return 1;
+        }
+      }
+    }
+    else {
+      filenames[filecount++] = argv[i];
+    }
+  }
+
+  if(filecount == 0) {
+    work_on_file(stdin);
+    printf("\n");
+    exit(0);
+  }
+
+  for(j = 0; j < filecount; j++) {
+    pid = fork();
+    if(pid == 0) {
+      FILE *file = fopen(filenames[j], "r");
+      local_count = work_on_file(file);
+      printf(" %s \tPID: %d\n", filenames[j], getpid());
+      write(pipefd[1], &local_count, sizeof(struct count));
+      exit(0);
+    }
+  }
+
+  for(k = 0; k < filecount; k++) {
+    read(pipefd[0], &local_count, sizeof(struct count));
+    total_count.lines = total_count.lines + local_count.lines;
+    total_count.words = total_count.words + local_count.words;
+    total_count.bytes = total_count.bytes + local_count.bytes;
+  }
+
+  if(filecount == 1) {
+    exit(0);
+  }
+
+  if(lines_flag == 0 && words_flag == 0 && bytes_flag ==0) {
+    printf("%5d %5d %5d ", total_count.lines, total_count.words, total_count.bytes);
+  }
+  else {
+    if(lines_flag != 0)
+      printf("%5d ", total_count.lines);
+    if(words_flag != 0)
+      printf("%5d ", total_count.words);
+    if(bytes_flag != 0)
+      printf("%5d ", total_count.bytes);
+  }
+  printf("total\n");
+
+  return 0;
+} //END OF MAIN
+$ gcc myforkingwc.c -o myforkingwc
+$               
+$ wc myforkingwc.c testing001.c
+ 135  390 2968 myforkingwc.c
+  10   72  373 testing001.c
+ 145  462 3341 total
+$ ./myforkingwc myforkingwc.c testing001.c
+   10    72   373  testing001.c         PID: 9560
+  135   390  2968  myforkingwc.c        PID: 9559
+  145   462  3341 total
+$ ./myforkingwc -l testing001.c 
+   10  testing001.c     PID: 9601
+$ ./myforkingwc -w testing001.c
+   72  testing001.c     PID: 9632
+$ ./myforkingwc -c testing001.c
+  373  testing001.c     PID: 9674
+$ ./myforkingwc -lw testing001.c
+   10    72  testing001.c       PID: 9677
+$ ./myforkingwc myforkingwc.c testing001.c
+  135   390  2968  myforkingwc.c        PID: 9702
+   10    72   373  testing001.c         PID: 9703
+  145   462  3341 total
+$ exit
+
+Script done on Wed 01 May 2019 02:48:56 AM PDT

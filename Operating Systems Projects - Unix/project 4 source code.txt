@@ -1,0 +1,90 @@
+//written by Daniel Cardenas
+//for COMP322 Project 4
+//This program checks for, and displays, 
+//	file and directory permissions for Read, Write, and Execute
+
+#include <stdio.h>
+#include <pwd.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <string.h>
+#include <unistd.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+  struct passwd *p;
+  struct stat info;
+  int user_uid, user_gid, file_uid, file_gid, i;
+  char *file, *home;
+  uid_t uid;
+  gid_t gid;
+  int k = 1;
+
+  if (argc == 1) {
+    printf("No file was given.  Please give one or more file names.\n");
+  }
+  else
+  {
+    while (--argc > 0) {
+      printf("The file you chose is %s\n", argv[k]);
+
+      if ((p = getpwuid(getuid())) == NULL)
+        printf("Found NULL when getting pwuid\n");
+
+      if(argv[k][0] == '/') {
+        file = malloc(sizeof(argv[k]));
+        file = strdup(argv[k]);
+      }
+      else {
+        home = p->pw_dir;
+        file = malloc(sizeof(home) + 1 + sizeof(argv[k]));
+        strcat(file, home);
+        strcat(file, "/");
+        strcat(file, argv[k]);
+      }
+
+      printf("New File Name is: %s\n", file);
+      
+      if (stat(file, &info) != 0)
+        printf("Error in Stat for %s\n", argv[k]);
+
+
+      user_uid = (int) p->pw_uid;
+      user_gid = (int)  p->pw_gid;
+      file_uid = (int) info.st_uid;
+      file_gid = (int) info.st_gid;
+      if (user_uid == file_uid)
+        {
+          if (info.st_mode & S_IRUSR)
+            printf("Read ");
+          if (info.st_mode & S_IWUSR)
+            printf("Write ");
+          if (info.st_mode & S_IXUSR)
+            printf("Execute ");
+          printf("\n");
+        }
+      else if (user_gid == file_gid)
+        {
+          if (info.st_mode & S_IRGRP)
+            printf("Read ");
+          if (info.st_mode & S_IWGRP)
+            printf("Write ");
+          if (info.st_mode & S_IXGRP)
+            printf("Execute ");
+          printf("\n");
+        }
+      else
+        {
+          if (info.st_mode & S_IROTH)
+            printf("Read ");
+          if (info.st_mode & S_IWOTH)
+            printf("Write ");
+          if (info.st_mode & S_IXOTH)
+            printf("Execute ");
+          printf("\n");
+        } // END OF CHECKING MODES
+      k++;
+    } // END OF WHILE LOOP
+  }
+}
